@@ -1,6 +1,6 @@
 {
   "name": "sugar-es5",
-  "description": "A Javascript utility library for working with native objects. ES5 polyfill module.",
+  "description": "ES5 polyfill module for the Sugar Javascript utility library.",
   "homepage": "https://sugarjs.com/",
   "license": "MIT",
   "authors": [
